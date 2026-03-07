@@ -1,7 +1,5 @@
 function Testiminials(){
-    return(
-        <></>
-    )
+    return <div></div>
 }
 
 export default Testiminials
