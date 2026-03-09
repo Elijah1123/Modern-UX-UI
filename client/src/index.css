@@ -29,8 +29,10 @@
 
     from{
         opacity: 0;
+        transform: translateY(-irem);
     }
     to{
         opacity: 1;
+        transform: translateY(0);
     }
 }
